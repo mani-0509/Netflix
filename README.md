@@ -40,6 +40,11 @@ This project analyzes Netflix viewing data to uncover insights about content tre
 
 ---
 
+🚀 How to Run the Project
+Clone the repository: git clone : ()
+
+---
+
 🧠 Learnings
 Hands-on experience with real-world datasets.
 Practice in data cleaning, EDA, and storytelling through visuals.
