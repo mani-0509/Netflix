@@ -54,7 +54,7 @@ Netflix Titles Dataset on Kaggle
 
 🤝 Contact
 **Manisha Sonone**  
-Data Analyst | Power BI | SQL | Python  
+Data Analyst | Power BI | SQL | Python | Excel
 📧 Email: manishasonone05@gmail.com  
 🌐 GitHub: [mani-0509](https://github.com/mani-0509)
 
