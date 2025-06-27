@@ -41,7 +41,7 @@ This project analyzes Netflix viewing data to uncover insights about content tre
 ---
 
 🚀 How to Run the Project
-Clone the repository: git clone : ()
+Clone the repository: git clone : (https://github.com/mani-0509/Netflix.git)
 
 ---
 
