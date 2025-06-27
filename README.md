@@ -5,13 +5,11 @@ This project analyzes Netflix viewing data to uncover insights about content tre
 
 ---
 
-## 📊 Key Insights & Features
-- Total number of TV shows and movies on the platform
-- Trend of content added over the years
-- Content distribution by type, country, and genre
-- Top Directors and Actors with most appearances
-- Analysis of ratings and duration across categories
-- Filterable dashboard with interactive visuals
+## 📁 Project Structure
+- Netflix Dataset: Contains original and cleaned datasets.
+- Python Scripts: For data cleaning, analysis, and visualization (Pandas, Matplotlib).
+- Power BI Dashboard: Interactive report showing key insights.
+- Excel Analysis: Pivot tables and charts for summary stats.
 
 ---
 
@@ -24,11 +22,13 @@ This project analyzes Netflix viewing data to uncover insights about content tre
 
 ---
 
-## 📁 Project Structure
-- Netflix Dataset: Contains original and cleaned datasets.
-- Python Scripts: For data cleaning, analysis, and visualization (Pandas, Matplotlib).
-- Power BI Dashboard: Interactive report showing key insights.
-- Excel Analysis: Pivot tables and charts for summary stats.
+## 📊 Key Insights & Features
+- Total number of TV shows and movies on the platform
+- Trend of content added over the years
+- Content distribution by type, country, and genre
+- Top Directors and Actors with most appearances
+- Analysis of ratings and duration across categories
+- Filterable dashboard with interactive visuals
 
 ---
 
@@ -40,4 +40,20 @@ This project analyzes Netflix viewing data to uncover insights about content tre
 
 ---
 
+🧠 Learnings
+Hands-on experience with real-world datasets.
+Practice in data cleaning, EDA, and storytelling through visuals.
+Built an interactive dashboard for non-technical stakeholders.
 
+---
+
+📂 Dataset Source
+Netflix Titles Dataset on Kaggle
+
+---
+
+🤝 Contact
+**Manisha Sonone**  
+Data Analyst | Power BI | SQL | Python  
+📧 Email: manishasonone05@gmail.com  
+🌐 GitHub: [mani-0509](https://github.com/mani-0509)
